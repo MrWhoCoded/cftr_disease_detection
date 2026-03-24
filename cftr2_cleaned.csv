@@ -1,4 +1,4 @@
-Variant cDNA name,variant determination,hgvs_genomic_grch38,grch38_chr,grch38_pos,grch38_ref,grch38_alt,cause
+Variant cDNA name,variant determination,hgvs_genomic_grch38,chr,pos,ref,alt,cause
 c.1521_1523del,CF-causing,NC_000007.14:g.117559592_117559594del,7,117559590,ATCT,A,1
 c.1624G>T,CF-causing,NC_000007.14:g.117587778G>T,7,117587778,G,T,1
 c.1652G>A,CF-causing,NC_000007.14:g.117587806G>A,7,117587806,G,A,1
