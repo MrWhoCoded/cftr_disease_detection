@@ -1,2 +1,6 @@
 *.fna
 *.fai
+*.tex
+report/
+.vscode/
+_pycache_/
